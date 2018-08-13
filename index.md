@@ -1,7 +1,3 @@
----
-title:"this is a test"
----
-
 ### 如何安装GlobalSSH？
 * 要使用GlobalSSH需要先下载CLI，[点击这里下载](http://url.com/)（MD5：这里写MD5）。
 * （Required）Mac OSX：UCloud CLI整合到Homebrew里，消除用户对UCloud CLI的不信任感。（TODO：直接叫globalssh？根据情况看，先采取标准做法，推UCloud CLI）
