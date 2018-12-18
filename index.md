@@ -1,13 +1,13 @@
 # GlobalSSH产品介绍
 &ensp; &ensp;数据传输稳定性一直是海外主机管理不能回避的话题，在主机登录、资料上传时频繁出现卡顿、丢包等现象，直接影响运维效率。
 
-<center>![image](http://globalssh.cn-sh2.ufileos.com/image001.png)</center>
+![image](http://globalssh.cn-sh2.ufileos.com/image001.png)
 <br /><center>TCP丢包测试（未使用GlobalSSH）</center>
 
 &ensp; &ensp; GlobalSSH旨在解决因为跨国网络不稳定的情况下，通过远程管理服务器时，经常会出现卡顿、连接失败、传输速度较慢等现象。
 
 ![image](http://globalssh.cn-sh2.ufileos.com/image003.png) 
-<br />TCP丢包测试（使用GlobalSSH）
+<br /><center>TCP丢包测试（使用GlobalSSH）</center>
 
 &ensp; &ensp; 截止目前，产品共有华盛顿、洛杉矶、香港、新加坡、东京、法兰克福6个节点，可覆盖美洲、亚洲、欧洲等大多数海外区域。
 
@@ -101,7 +101,7 @@ Windows用户在远程桌面程序中的计算机处，填写该加速域名，�
 
 
  ![image](http://globalssh.cn-sh2.ufileos.com/image013.png)
-（GlobalSSH架构原理示意图）
+<br /><center>（GlobalSSH架构原理示意图）</center>
 
 ## 关于CLI
 &ensp; &ensp; CLI使用命令行开源框架，通过调用OpenAPI SDK软件包实现对UCloud云平台产品资源的调用。在成熟的框架基础上，主要实现命令行结构简洁易理解、与控制台业务逻辑保持一致，让用户通过命令行终端获取和管理云平台资源。
