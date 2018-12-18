@@ -46,7 +46,7 @@
 ![image](http://globalssh.cn-sh2.ufileos.com/image011.png) 
  <br />（PathX入口）
  
-&emsp; &emsp; GlobalSSH同样也适用于第三方云主机，用户可以进入全球动态加速PathX页面（https://console.ucloud.cn/upathx/globalssh），点击GlobalSSH标签，进行创建
+&emsp; &emsp; GlobalSSH同样也适用于第三方云主机，用户可以进入全球动态加速PathX页面，点击GlobalSSH标签，进行创建
 
 ## 2	使用CLI（命令行终端）创建
 
