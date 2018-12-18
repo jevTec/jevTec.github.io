@@ -50,10 +50,10 @@
 
 ## 2	使用CLI（命令行终端）创建
 
-CLI 基于UCloud Golang SDK，为用户提供简易命令行操作管理云服务产品，降低资源使用成本，目前支持主机、GlobalSSH、EIP等产品的创建、删除、修改等功能。
+&ensp; &ensp; CLI 基于UCloud Golang SDK，为用户提供简易命令行操作管理云服务产品，降低资源使用成本，目前支持主机、GlobalSSH、EIP等产品的创建、删除、修改等功能。
 
 ### 2.1	Homebrew 安装
-Homebrew是Mac、Ubuntu系统支持的软件包管理器，支持大部分的个人工具软件下载，无需运行root权限。
+&ensp; &ensp; Homebrew是Mac、Ubuntu系统支持的软件包管理器，支持大部分的个人工具软件下载，无需运行root权限。
 
 ```
 brew install ucloud
