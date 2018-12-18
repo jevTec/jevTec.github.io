@@ -1,18 +1,19 @@
 # GlobalSSH产品介绍
-&ensp; &ensp;数据传输稳定性一直是海外主机管理不能回避的话题，在主机登录、资料上传时频繁出现卡顿、丢包等现象，直接影响运维效率。<br />
+&ensp; &ensp;数据传输稳定性一直是海外主机管理不能回避的话题，在主机登录、资料上传时频繁出现卡顿、丢包等现象，直接影响运维效率。
+
 ![image](http://globalssh.cn-sh2.ufileos.com/image001.png)
 <br />TCP丢包测试（未使用GlobalSSH）
 
 &ensp; &ensp; GlobalSSH旨在解决因为跨国网络不稳定的情况下，通过远程管理服务器时，经常会出现卡顿、连接失败、传输速度较慢等现象。
+
 ![image](http://globalssh.cn-sh2.ufileos.com/image003.png) 
-</br>TCP丢包测试（使用GlobalSSH）
+<br />TCP丢包测试（使用GlobalSSH）
 
 &ensp; &ensp; 截止目前，产品共有华盛顿、洛杉矶、香港、新加坡、东京、法兰克福6个节点，可覆盖美洲、亚洲、欧洲等大多数海外区域。
 
 # GlobalSSH免费使用规则
-新旧计费方式对比：</br>
+新旧计费方式对比：<br />
 分类 | 原计费方式 | 新计费方式（免费）
----|--- | ---
 实例 | 60/个 | 0元/个
 流量 | 2元/GB | 0元/GB
 
