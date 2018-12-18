@@ -28,11 +28,11 @@
 ## 1. 使用控制台创建
 ### 1.1	从主机或网络列表创建
 ![image](http://globalssh.cn-sh2.ufileos.com/image005.png) 
-<br /><center>（主机列表）</center>
+<br />（主机列表）
 
 
  ![image](http://globalssh.cn-sh2.ufileos.com/image007.png) 
- <br /><center>（网络列表）</center>
+ <br />（网络列表）
 
 &emsp; &emsp; 已购买海外云主机或EIP的用户可点击列表页中的GlobalSSH图标（红框位置）开启GlobalSSH
 
