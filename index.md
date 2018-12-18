@@ -38,13 +38,13 @@
 
 ### 1.2	购买主机时创建
  ![image](http://globalssh.cn-sh2.ufileos.com/image009.png)
- <br />（创建主机GlobalSSH选项）
+ <br /><center>（创建主机GlobalSSH选项）</center>
 
 &emsp; &emsp; 用户购买主机时，GlobalSSH选项已默认开启。用户成功购买海外主机（需绑定外网弹性IP）后，默认获得对应的GlobalSSH
 
 ### 1.3	从PathX入口创建
 ![image](http://globalssh.cn-sh2.ufileos.com/image011.png) 
- <br />（PathX入口）
+ <br /><center>（PathX入口）</center>
  
 &emsp; &emsp; GlobalSSH同样也适用于第三方云主机，用户可以进入全球动态加速PathX页面，点击GlobalSSH标签，进行创建
 
