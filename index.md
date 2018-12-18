@@ -28,23 +28,23 @@
 ## 1. 使用控制台创建
 ### 1.1	从主机或网络列表创建
 ![image](http://globalssh.cn-sh2.ufileos.com/image005.png) 
-</br>（主机列表）
+<br />（主机列表）
 
 
  ![image](http://globalssh.cn-sh2.ufileos.com/image007.png) 
- </br>（网络列表）
+ <br />（网络列表）
 
 &emsp; &emsp; 已购买海外云主机或EIP的用户可点击列表页中的GlobalSSH图标（红框位置）开启GlobalSSH
 
 ### 1.2	购买主机时创建
  ![image](http://globalssh.cn-sh2.ufileos.com/image009.png)
- </br>（创建主机GlobalSSH选项）
+ <br />（创建主机GlobalSSH选项）
 
 &emsp; &emsp; 用户购买主机时，GlobalSSH选项已默认开启。用户成功购买海外主机（需绑定外网弹性IP）后，默认获得对应的GlobalSSH
 
 ### 1.3	从PathX入口创建
 ![image](http://globalssh.cn-sh2.ufileos.com/image011.png) 
- </br>（PathX入口）
+ <br />（PathX入口）
  
 &emsp; &emsp; GlobalSSH同样也适用于第三方云主机，用户可以进入全球动态加速PathX页面（https://console.ucloud.cn/upathx/globalssh），点击GlobalSSH标签，进行创建
 
