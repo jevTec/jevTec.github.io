@@ -99,6 +99,7 @@ Windows用户在远程桌面程序中的计算机处，填写该加速域名，�
 ## 关于GlobalSSH
 &ensp; &ensp; GlobalSSH是一款保障海外数据中心运维的网络产品，采用了UCloud众多IaaS产品如：ULB4（四层LoadBalance服务）、UDPN（洲际数据中心内网互联、0丢包）及高包量云主机。引入智能DNS服务赋予用户就近接入的能力。网络转发基于成熟稳定的GRE、NAT技术，支持TCP端口（除80、443）四层转发。
 
+
  ![image](http://globalssh.cn-sh2.ufileos.com/image013.png)
 （GlobalSSH架构原理示意图）
 
